@@ -8,3 +8,4 @@ Hello Git222222
 Hello Git master text
 Hello Git hot-fix text
 拉取远程库
+SSH拉取
